@@ -36,9 +36,11 @@ My current research focuses on multi-modal learning (mmWave radar, LiDAR, etc.),
 
 **Ruijie Zhang**, Bixin Zeng, Shengpeng Wang, Fuhui Zhou, Wei Wang
 
+[**Project**](https://royaptx4869.github.io/RaLD/) | [**Code**](https://github.com/RoyAPTX4869/RaLD)
 - A project aimed at improving the quality of 3D radar point clouds using advanced generative models.
 </div>
 </div>
+
 
 <!-- Pub 2 --->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_images/DetVPCC.jpg' alt="DetVPCC" style="width:280px;height:180px;object-fit:contain;display:block;margin:0 auto;"></div></div>

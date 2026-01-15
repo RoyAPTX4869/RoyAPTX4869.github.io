@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+bundle exec jekyll serve --livereload --port 4001 --host 0.0.0.0
