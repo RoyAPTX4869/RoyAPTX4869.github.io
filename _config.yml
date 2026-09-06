@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruijie Zhang"
-description              : "Master's student in Huazhong University of Science and Technology."
+description              : "Ph.D. student in Electrical and Computer Engineering at The University of Hong Kong."
 repository               : "RoyAPTX4869/RoyAPTX4869.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruijie Zhang"
   avatar           : "images/website_icon.png"
-  bio              : "Huazhong University of Science and Technology"
-  location         : "Wuhan, China"
+  bio              : "The University of Hong Kong"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AO304gMAAAAJ&hl"

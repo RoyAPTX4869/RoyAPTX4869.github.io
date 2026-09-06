@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Ruijie Zhang is a Ph.D. student in Electrical and Computer Engineering at The University of Hong Kong, advised by Prof. Jingao Xu."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year master's student from [School of Electronic Information and Communications (EIC)](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I am very fortunate to be advised by [Prof. Wei Wang](https://weisgroup.github.io/weiwang.html) of [MetaIoT Lab](https://metaiot.group/). Before that, I obtained my bachelor’s degree at [HUST](https://www.hust.edu.cn/) in the same school.
+I am a Ph.D. student in the [Department of Electrical and Computer Engineering (ECE)](https://ece.hku.hk/) at [The University of Hong Kong (HKU)](https://www.hku.hk/). I joined HKU in September 2026 and am advised by [Prof. Jingao Xu](https://jingao-xu.info/).
+
+Previously, I received my master's degree from the [School of Electronic Information and Communications (EIC)](https://ei.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), advised by [Prof. Wei Wang](https://weisgroup.github.io/weiwang.html) of [MetaIoT Lab](https://metaiot.group/). I also obtained my bachelor's degree at HUST in the same school.
 
 My current research focuses on multi-modal learning (mmWave radar, LiDAR, etc.), 3D vision, generative model and efficient systems for AI. 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 I joined HKU ECE as a Ph.D. student, advised by [Prof. Jingao Xu](https://jingao-xu.info/).
 - *2025.11*: &nbsp;🎉🎉 One paper about radar-based multi-modal generation is accepted at *Oral* paper to **AAAI 2026**.
 - *2025.02*: &nbsp;🎉🎉 One preprint about efficient RoI-aware sequential point cloud compression to improve 3D object‑detection accuracy released on *arXiv*.
 
@@ -64,7 +67,8 @@ Mingxuan Yan*, **Ruijie Zhang\***, Xuedou Xiao, Wei Wang
 
 
 # 📖 Educations
-- *2023.06 - Now (expected to graduate in 2026.06)*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering.
+- *2026.09 - Present*, The University of Hong Kong, Ph.D. student, Electrical and Computer Engineering. Advisor: [Prof. Jingao Xu](https://jingao-xu.info/).
+- *2023.06 - 2026.06*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering.
 - *2019.09 - 2023.06*, Huazhong University of Science and Technology, B.E., Electronic Information Engineering.
 
 <!-- # 💬 Invited Talks
